@@ -1,0 +1,11 @@
+  =>  Name    : Kolega Adventure Tourist & Travel Agency
+
+  =>  Link    : https://www.kolegaadventure.id/
+
+  =>  Template License : https://www.metrost.id/license (or read the LICENSE.txt file)
+
+  =>  Author  : Metro Smart Technology
+
+  =>  Website   : https://www.metrost.id/
+
+  =>  About Metro Smart Technology : ( https://www.metrost.id/about-us )
